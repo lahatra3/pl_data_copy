@@ -1,0 +1,4 @@
+polars==1.17.1
+psycopg2-binary==2.9.10
+pybuilder==0.13.13
+SQLAlchemy==2.0.36
